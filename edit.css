@@ -1,5 +1,9 @@
 .controller.ds4 {
     background: url(https://raw.githubusercontent.com/OssamaMR/controller/main/base.png);
+     height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
 
 }
 
@@ -30,6 +34,8 @@
 .ds4 .stick {
     position: absolute;
     background: url(https://raw.githubusercontent.com/OssamaMR/controller/main/sticks.png);
+    height: 94px;
+    width: 94px;
 
 }
 .ds4.disconnected {
