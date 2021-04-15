@@ -23,12 +23,7 @@
 .ds4 .meta.pressed {
     background: url(https://raw.githubusercontent.com/OssamaMR/controller/main/meta.png) no-repeat center;
 }
-.ds4 .back, .ds4 .start {
-    background: url(https://raw.githubusercontent.com/OssamaMR/controller/main/meta.png);
-    width: 28px;
-    height: 46px;
-    opacity: 0;
-}
+
 .ds4 .touchpad.pressed {
     background: url(https://raw.githubusercontent.com/OssamaMR/controller/main/touchpad.png) no-repeat center;
 }
